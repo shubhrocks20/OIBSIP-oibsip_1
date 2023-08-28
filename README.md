@@ -12,13 +12,13 @@ At Cafe Coffee Company, we're passionate about serving the best coffee to our cu
 - **Coffee Origins:** Learn about the different regions around the world where coffee is grown and discover their unique flavors.
 
 - **Coffee Types:** Dive into the diverse types of coffee, such as espresso, cappuccino, latte, and cold brew.
-![Screenshot (30)](https://github.com/shubhrocks20/OIBSIP-oibsip_1/assets/94545975/0a0dc284-7a7f-4051-b442-012052b77827)
-![Screenshot (31)](https://github.com/shubhrocks20/OIBSIP-oibsip_1/assets/94545975/9fbc02bb-0bcf-4573-9c67-a100d47a9678)
-![Screenshot (32)](https://github.com/shubhrocks20/OIBSIP-oibsip_1/assets/94545975/72b48451-c096-4651-8db3-b533003ff551)
-![Screenshot (33)](https://github.com/shubhrocks20/OIBSIP-oibsip_1/assets/94545975/e53253b2-ecd6-4ceb-a02a-dad214d6308a)
-![Screenshot (34)](https://github.com/shubhrocks20/OIBSIP-oibsip_1/assets/94545975/9aa72b73-0b8e-4800-a2c4-c6b461e4a99d)
-![Screenshot (35)](https://github.com/shubhrocks20/OIBSIP-oibsip_1/assets/94545975/8fe0a5d5-cd30-4033-b5ee-4f1d1079df1c)
-![Screenshot (36)](https://github.com/shubhrocks20/OIBSIP-oibsip_1/assets/94545975/b79256b9-27f3-4e32-923d-9bbd7492a351)
+![Screenshot (37)](https://github.com/shubhrocks20/OIBSIP-oibsip_1/assets/94545975/9294a7bc-e4a8-4df3-960e-22464fa99ce9)
+![Screenshot (38)](https://github.com/shubhrocks20/OIBSIP-oibsip_1/assets/94545975/31700ca8-8c8b-40b5-9fb4-720741fa8d0a)
+![Screenshot (39)](https://github.com/shubhrocks20/OIBSIP-oibsip_1/assets/94545975/f62f90fb-5ba6-4f3a-899b-097fe8acbba3)
+![Screenshot (40)](https://github.com/shubhrocks20/OIBSIP-oibsip_1/assets/94545975/3c9b3221-16b3-4c95-b6c7-581e8f279e2e)
+![Screenshot (41)](https://github.com/shubhrocks20/OIBSIP-oibsip_1/assets/94545975/954adec6-4e72-428a-b754-bf98d45cbb8f)
+![Screenshot (42)](https://github.com/shubhrocks20/OIBSIP-oibsip_1/assets/94545975/0a416d59-fd69-41b3-acbb-9d54b1569e93)
+![Screenshot (43)](https://github.com/shubhrocks20/OIBSIP-oibsip_1/assets/94545975/4ec49714-dca4-4835-aac0-e4af0b53d65b)
 
 
 
